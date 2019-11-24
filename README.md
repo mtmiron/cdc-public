@@ -18,6 +18,7 @@ Models
 
 Files
 -----
+- aspell.py: sorta-kinda useful interface to GNU's Aspell spell checker.
 - main.py: train and/or predict using individual models.
 - ensemble.py: use models from main.py in a trivial ensemble-fashion.
 - simpletransformersmodel.py: modification of simpletransformers.
