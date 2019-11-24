@@ -1,0 +1,5 @@
+- Leverage translation to generate high quality synonomous sentences (English -> Spanish -> English).
+- Thesaurus methods (replace random words with synonyms [yields no appreciable improvement on this task])
+- Reverse the order of words (lowers score).
+- Inject gibberish (no appreciable improvement on this task)
+- Randomly permute order of words (decreases score on this task)

@@ -1,0 +1,78 @@
+# all scores are locally evaluated using the last 5000 samples in the training set
+
+# 0.8941326754026686: [('roberta', 'cp/roberta/19', ''), ('roberta', 'cp/roberta/20', ''), ('roberta', 'cp/roberta/best', ''), ('xlnet', 'cp/xlnet/08', ''), ('distilbert', 'cp/distilbert/25', '')]
+roberta:cp/roberta/19
+roberta:cp/roberta/20
+roberta:cp/roberta/best
+xlnet:cp/xlnet/08
+distilbert:cp/distilbert/25
+
+
+# 0.8939314667436115: [('bert', 'cp/bert/01', ''), ('bert', 'cp/bert/02', ''), ('bert', 'cp/bert/04', ''), ('bert', 'cp/bert/best', ''), ('roberta', 'cp/roberta/13', ''), ('roberta', 'cp/roberta/15', ''), ('roberta', 'cp/roberta/21', ''), ('roberta', 'cp/roberta/best', '')]
+#bert:cp/bert/01
+#bert:cp/bert/02
+#bert:cp/bert/04
+#bert:cp/bert/best
+#roberta:cp/roberta/13
+#roberta:cp/roberta/15
+#roberta:cp/roberta/21
+#roberta:cp/roberta/best
+
+#roberta:cp/roberta/best
+#bert:cp/bert/best
+#xlnet:cp/xlnet/best
+
+# 0.8908371513312008: [('roberta', ' cp/roberta/13', ''), ('xlnet', ' cp/xlnet/03', ''), ('roberta', ' cp/roberta/23', ''), ('bert', ' cp/bert/02', ''), ('roberta', ' cp/roberta/25', ''), ('bert', ' cp/bert/01', '')]
+#roberta:cp/roberta/13
+#xlnet:cp/xlnet/03
+#roberta:cp/roberta/23
+#bert:cp/bert/02
+#roberta:cp/roberta/25
+#bert:cp/bert/01
+
+# 0.88: [('roberta', 'cp/roberta/15', ''), ('roberta', 'cp/roberta/24', ''), ('xlnet', 'cp/xlnet/03', ''), ('roberta', 'cp/roberta/best', ''), ('roberta', 'cp/roberta/14', ''), ('roberta', 'cp/roberta/34', ''), ('roberta', 'cp/roberta/34', ''), ('roberta', 'cp/roberta/23', '')]
+#roberta:cp/roberta/15
+#roberta:cp/roberta/24
+#xlnet:cp/xlnet/03
+#roberta:cp/roberta/best
+#roberta:cp/roberta/14
+#roberta:cp/roberta/34
+#roberta:cp/roberta/34
+#roberta:cp/roberta/23
+
+# 0.8868825274224926: [('roberta', 'cp/roberta/24/checkpoint-9000', ''), ('roberta', 'cp/roberta/31/checkpoint-7500', ''), ('roberta', 'cp/roberta/34/checkpoint-53000', ''), ('distilbert', 'cp/distilbert/25/checkpoint-52000', ''), ('xlnet', 'cp/xlnet/08/checkpoint-62500', ''), ('distilbert', 'cp/distilbert/25/checkpoint-62000', ''), ('xlnet', 'cp/xlnet/08/checkpoint-41500', ''), ('distilbert', 'cp/distilbert/25/checkpoint-67500', ''), ('distilbert', 'cp/distilbert/25/checkpoint-39500', ''), ('roberta', 'cp/roberta/35/checkpoint-7000', '')]
+#roberta:cp/roberta/24/checkpoint-9000
+#roberta:cp/roberta/31/checkpoint-7500
+#roberta:cp/roberta/34/checkpoint-53000
+#distilbert:cp/distilbert/25/checkpoint-52000
+#xlnet:cp/xlnet/08/checkpoint-62500
+#distilbert:cp/distilbert/25/checkpoint-62000
+#xlnet:cp/xlnet/08/checkpoint-41500
+#distilbert:cp/distilbert/25/checkpoint-67500
+#distilbert:cp/distilbert/25/checkpoint-39500
+#roberta:cp/roberta/35/checkpoint-7000
+
+# 0.88: [('roberta', 'cp/roberta/35/checkpoint-4500', ''), ('roberta', 'cp/roberta/32/checkpoint-11500', ''), ('distilbert', 'cp/distilbert/25/checkpoint-18000', ''), ('distilbert', 'cp/distilbert/21/checkpoint-11000', ''), ('roberta', 'cp/roberta/25/checkpoint-19000', ''), ('roberta', 'cp/roberta/22/checkpoint-17000', ''), ('xlnet', 'cp/xlnet/06/checkpoint-3000', ''), ('roberta', 'cp/roberta/26/checkpoint-27000', ''), ('roberta', 'cp/roberta/34/checkpoint-93000', ''), ('distilbert', 'cp/distilbert/26/checkpoint-18500', '')]
+#roberta:cp/roberta/35/checkpoint-4500
+#roberta:cp/roberta/32/checkpoint-11500
+#distilbert:cp/distilbert/25/checkpoint-18000
+#distilbert:cp/distilbert/21/checkpoint-11000
+#roberta:cp/roberta/25/checkpoint-19000
+#roberta:cp/roberta/22/checkpoint-17000
+#xlnet:cp/xlnet/06/checkpoint-3000
+#roberta:cp/roberta/26/checkpoint-27000
+#roberta:cp/roberta/34/checkpoint-93000
+#distilbert:cp/distilbert/26/checkpoint-18500
+
+# 0.89308
+#xlnet:cp/xlnet/07/checkpoint-38500
+#roberta:cp/roberta/24/checkpoint-1000
+#roberta:cp/roberta/23/checkpoint-17000
+#roberta:cp/roberta/22/checkpoint-10000
+#roberta:cp/roberta/31/checkpoint-34000
+#roberta:cp/roberta/25/checkpoint-19000
+#roberta:cp/roberta/15/checkpoint-16000
+#roberta:cp/roberta/21/checkpoint-16000
+#roberta:cp/roberta/19/checkpoint-18000
+#bert:cp/bert/02/checkpoint-44000
+#bert:cp/bert/04
