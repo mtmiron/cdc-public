@@ -10,7 +10,7 @@ See augmentation_techniques.txt for augmentation stuff that ended up not helping
 
 Models
 ------
-All models except ERNIE and fastText were the huggingface implementations.
+All models except ERNIE and fastText were the huggingface implementations.  For fastText I used Facebook's implementation, and ERNIE was a slightly modified PaddlePaddle version.
 
 If you want the 5 gigabyte zip of the 5 models I ended up submitting: https://drive.google.com/open?id=1NQBAMgR_FtlN_KOPBNoFtaASwT77Nhlz
 
