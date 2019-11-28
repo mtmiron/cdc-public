@@ -2,7 +2,7 @@
 
 Result: 8th place out of ~95.
 
-Bear in mind that these files were not written to be extensible, elegant, or shining examples of good code.
+Bear in mind that these files were not written to be extensible, elegant, or shining examples of good code.  Frankly the code I write during a timed marathon contest isn't the sort of thing I'd like to be judged by, but if it's useful to you somehow, here it is.
 
 tmp.txt is the list of ensemble combinations that were tested; caching the logits got the speed up to 120 ensembles per second.  That only worked because "ensemble," as used here, was nothing more than the summation of the model's logits averaged.  Score went from 0.885 to 0.890.  GPU RAM and time prevented me from doing much else, and I had the weights for dozens of models saved.
 
