@@ -19,7 +19,7 @@ If you want the 5 gigabyte zip of the 5 models I ended up submitting: https://dr
 - roberta: consistently scored the best.  3-5 epochs was the sweet spot. ~0.885 after ~12 hours of training.
 - distilbert: scored almost as well as roberta in a fraction of the time. ~0.878 after ~2-4 hours of training.
 - ernie: scored around ~0.68; it's conceivable I screwed up the implementation.
-- fastText: what can I say... 90% of the transformer's accuracy in the blink of an eye.  Scored ~0.84 consistently after 2-10 minutes (!!) of training, but that was only my local scoring (I didn't bother submitting this one's solution).  I walked away from this challenge deciding that I'll pretty much always use fastText unless I'm trying to win something.
+- fastText: what can I say... 90% of the transformer's accuracy in the blink of an eye.  Scored ~0.84 consistently after 2-10 minutes of training, but that was only my local scoring (I didn't bother submitting this one's solution).
 
 Files
 -----
