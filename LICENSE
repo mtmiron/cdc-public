@@ -1,0 +1,8 @@
+LGPL, the upshot of which is that you can use it for whatever you want, but you cannot close the source
+or use it with anything that does.  For full terms, see your friendly local web search.
+
+Note that third-party code and utilities (e.g. GNU's Aspell) may be utilized even if not included,
+and that such third-party utilities or their addons (e.g. Aspell's dictionaries) may render portions
+of this project subject to unique terms which are not mentioned by this license.
+
+All rights not covered by the above are held by Software Research LLC.
