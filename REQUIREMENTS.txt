@@ -3,4 +3,4 @@ simpletransformers==0.4.5
 transformers==4.30.0                                    
 plac==0.9.6                                    
 pandas==0.25.2                                   
-numpy==1.17.3
+numpy==1.22.0
